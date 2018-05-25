@@ -1,0 +1,5 @@
+﻿  Chess02.cpp
+c:\users\sarut\source\repos\chess02\chess02\chess02.cpp(5967): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\sarut\source\repos\chess02\chess02\chess02.cpp(5996): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\sarut\source\repos\chess02\chess02\chess02.cpp(6333): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Chess02.vcxproj -> C:\Users\Sarut\source\repos\Chess02\Debug\Chess02.exe
